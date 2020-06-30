@@ -13,7 +13,7 @@
 		"Texas Bowl",
 		"Camping World Bowl",
 		"Music City Bowl",
-		"Belk Bowl",
+		"Duke's mayonnaise  Bowl",
 		"Pinstripe Bowl",
 		"Liberty Bowl",
 		"Redbox Bowl",
@@ -67,7 +67,7 @@
 				{
 					"name": "Georgia",
 					"abbreviation": "UGA",
-					"prestige": "94",
+					"prestige": "95",
 					"state": "Georgia",
 					"rival": "UF",
 					"headCoach": {
